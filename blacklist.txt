@@ -16,3 +16,4 @@ payload:
   - '+.thebyrut.org'
   - '+.thepiratebay.org'
   - '+.netflix.com'
+  - '+.epicgames.com'
