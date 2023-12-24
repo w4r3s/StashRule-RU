@@ -15,5 +15,4 @@ payload:
   - '+.rutracker.org'
   - '+.thebyrut.org'
   - '+.thepiratebay.org'
-  - '+.netflix.com'
   - '+.epicgames.com'
